@@ -32,9 +32,10 @@ const Register = () => {
     <div className="register">
       <div className="card">
         <div className="left">
-          <h1>Shikha Social.</h1>
+          <h1>InstaVibe</h1>
           <p>
-            Shikha's social app want somthing new ,explore new one with new world
+            Welcome to InstaVibe – where every moment becomes a vibrant story,
+            whether you're sharing selfies, epic adventures, or discovering the latest trends!
           </p>
           <span>Do you have an account?</span>
           <Link to="/login">
