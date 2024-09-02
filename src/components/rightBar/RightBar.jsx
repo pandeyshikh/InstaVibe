@@ -42,7 +42,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Richa</span> changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -133,7 +133,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Shivam</span>
             </div>
           </div>
           <div className="user">
@@ -143,7 +143,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Ashish</span>
             </div>
           </div>
           <div className="user">
@@ -153,7 +153,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Rubi</span>
             </div>
           </div>
           <div className="user">
@@ -163,7 +163,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Diya</span>
             </div>
           </div>
           <div className="user">
@@ -173,7 +173,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>shruti</span>
             </div>
           </div>
           <div className="user">
@@ -183,7 +183,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Sakshi</span>
             </div>
           </div>
           <div className="user">
@@ -193,7 +193,7 @@ const RightBar = () => {
                 alt=""
               />
               <div className="online" />
-              <span>Jane Doe</span>
+              <span>Radha</span>
             </div>
           </div>
         </div>
